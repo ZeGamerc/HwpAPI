@@ -1,9 +1,9 @@
 <h1 align="center">HwpAPI</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=Build&message=DEV&color=2ea44f&style=for-the-badge" alt="build">
-    <img src="https://img.shields.io/static/v1?label=VERSION&message=V1.0.0&color=2ea44f&style=for-the-badge" alt="version"> 
-    <img src="https://img.shields.io/static/v1?label=License&message=GNU General Public License v3.0&color=2ea44f&style=for-the-badge" alt="distribution">
+    <img src="https://img.shields.io/static/v1?label=Build&message=DEV&color=7d14f5&style=for-the-badge" alt="build">
+    <img src="https://img.shields.io/static/v1?label=VERSION&message=V1.0.0&color=7d14f5&style=for-the-badge" alt="version"> 
+    <img src="https://img.shields.io/static/v1?label=License&message=GNU General Public License v3.0&color=7d14f5&style=for-the-badge" alt="distribution">
 </p>
 
 <p align="center">HwpAPI - Beta Dev</p>
