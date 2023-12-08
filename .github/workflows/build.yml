@@ -25,3 +25,8 @@ jobs:
             rm -r *
             wget https://github.com/ZeGamerc/HwpAPI/archive/refs/heads/main.zip
             unzip main.zip
+            cd HwpAPI-main
+            mv -r * ../
+            cd ../
+            rm -r main.zip
+            rm -r HwpAPI-main
